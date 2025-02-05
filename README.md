@@ -59,6 +59,8 @@ SYN-сканирование: nmap -sS 192.168.31.55
 
 ![SYN](https://github.com/timurgithub/sdb-hw-13-01/blob/main/img/2.png)
 
+![SYN](https://github.com/timurgithub/sdb-hw-13-01/blob/main/img/2.1png)
+
 FIN-сканирование: nmap -sF 192.168.31.55
 
 Порты отображаются как open|filtered, т.к. открытые порты игнорируют FIN-пакеты.
