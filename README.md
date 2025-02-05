@@ -59,7 +59,7 @@ SYN-сканирование: nmap -sS 192.168.31.55
 
 ![SYN](https://github.com/timurgithub/sdb-hw-13-01/blob/main/img/2.png)
 
-![SYN](https://github.com/timurgithub/sdb-hw-13-01/blob/main/img/2.1png)
+![SYN](https://github.com/timurgithub/sdb-hw-13-01/blob/main/img/2.1.png)
 
 FIN-сканирование: nmap -sF 192.168.31.55
 
